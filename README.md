@@ -1,1 +1,1 @@
-"# learn_langChain" 
+大模型RAG与Agent智能体项目实战教程，一个【基于主流的LangChain技术从大模型提示词到实战】的简易项目
